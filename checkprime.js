@@ -5,7 +5,9 @@ for(let i=2;i<=Math.sqrt(a);i++){
         count++;
     }
 }
-if(count==0)
+if(count==0){
 console.log("yes");
-else
+}
+else{
 console.log("no");
+}
